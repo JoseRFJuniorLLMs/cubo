@@ -1,0 +1,2 @@
+speaker: https://sketchfab.com/3d-models/fnaf-loud-speaker-872d486d55c74c5786e030e4218aa530
+apple: https://sketchfab.com/3d-models/low-poly-apple-game-ready-0176be079c2449e7aaebfb652910a854
